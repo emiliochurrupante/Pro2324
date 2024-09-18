@@ -5,6 +5,7 @@
 # Prerequisites
 *.d
 
+#chorizo-portugano
 # Object files
 *.o
 *.ko
